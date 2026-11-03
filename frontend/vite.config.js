@@ -28,7 +28,7 @@ export default defineConfig(() => {
             'Modern & 100% Open-source CRM tool to supercharge your sales operations',
           icons: [
             {
-              src: '/assets/crm/manifest/manifest-icon-192.maskable.png',
+              src: '/assets/crm/manifest/manifest-icon-192.png',
               sizes: '192x192',
               type: 'image/png',
               purpose: 'any',
@@ -40,7 +40,7 @@ export default defineConfig(() => {
               purpose: 'maskable',
             },
             {
-              src: '/assets/crm/manifest/manifest-icon-512.maskable.png',
+              src: '/assets/crm/manifest/manifest-icon-512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any',

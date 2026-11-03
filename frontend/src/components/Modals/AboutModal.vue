@@ -51,7 +51,7 @@ let show = defineModel({ type: Boolean })
 let links = [
   {
     label: __('Website'),
-    url: 'https://thinknxg.net',
+    url: 'https://thinknxg.com',
     icon: LucideGlobe,
   },
   {
@@ -71,7 +71,7 @@ let links = [
   },
   {
     label: __('Contact Support'),
-    url: 'https://thinknxg.net/support',
+    url: 'https://thinknxg.com/support',
     icon: LucideHeadset,
   },
 ]

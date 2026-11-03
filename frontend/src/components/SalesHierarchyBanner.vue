@@ -44,7 +44,7 @@ defineProps({
 })
 
 const BLOG_URL =
-  'https://thinknxg.net/blog/understanding-permissions-in-thinknxg-crm'
+  'https://thinknxg.com/blog/understanding-permissions-in-thinknxg-crm'
 
 const { isManager } = usersStore()
 const dismissed = useStorage('salesHierarchyBannerDismissed', false)

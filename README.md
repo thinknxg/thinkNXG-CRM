@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://thinknxg">
-        <img src="https://thinknxg.com/wp-content/uploads/2023/12/favicon.svg1-01.png" height="128">
+    <a href="https://thinknxg.com">
+        <img src="crm/public/images/thinknxg-logo.png" height="128" alt="thinkNXG CRM">
     </a>
     <h2>thinkNXG CRM</h2>
     <p align="center">
@@ -29,7 +29,7 @@
 
 ## License
 
-GNU/General Public License (see [license.txt](license.txt))
+GNU Affero General Public License v3 (see [LICENSE](LICENSE))
 
 The thinkNXG ERP code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by thinkCADD Technology Corporation (thinkCADD) and Contributors.
 
