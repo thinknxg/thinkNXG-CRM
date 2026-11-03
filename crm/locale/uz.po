@@ -704,8 +704,8 @@ msgid "Are you sure you want to go back? Unsaved changes will be lost."
 msgstr "Haqiqatan ham orqaga qaytmoqchimisiz? Saqlanmagan o'zgarishlar yo'qoladi."
 
 #: frontend/src/composables/frappecloud.js:24
-msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr "Frappe Cloud boshqaruv paneliga kirishni xohlaysizmi?"
+msgid "Are you sure you want to login to your thinkNXG Cloud dashboard?"
+msgstr "thinkNXG Cloud boshqaruv paneliga kirishni xohlaysizmi?"
 
 #: frontend/src/components/FieldLayoutEditor.vue:431
 msgid "Are you sure you want to remove this tab and all its content?"
@@ -1627,8 +1627,8 @@ msgstr "Shirkat nomi"
 
 #. Label of the erpnext_company (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "Company in ERPNext site"
-msgstr "ERPNext saytidagi kompaniya"
+msgid "Company in thinkNXG ERP site"
+msgstr "thinkNXG ERP saytidagi kompaniya"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:517
 msgid "Company name is required"
@@ -1940,8 +1940,8 @@ msgid "Create an Event"
 msgstr "Tadbir yarating"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:217
-msgid "Create customer in ERPNext when the deal status is changed"
-msgstr "Shartnoma holati o'zgarganda ERPNext da mijoz yarating"
+msgid "Create customer in thinkNXG ERP when the deal status is changed"
+msgstr "Shartnoma holati o'zgarganda thinkNXG ERP da mijoz yarating"
 
 #. Label of the create_customer_on_status_change (Check) field in DocType
 #. 'ERPNext CRM Settings'
@@ -1952,8 +1952,8 @@ msgstr "Holat o'zgarishida mijoz yarating"
 #: crm/fcrm/doctype/crm_product/crm_product.js:12
 #: crm/fcrm/doctype/crm_product/crm_product_list.js:10
 #: frontend/src/composables/document.js:29
-msgid "Create products as Items in ERPNext"
-msgstr "ERPNext da mahsulotlarni elementlar sifatida yarating"
+msgid "Create products as Items in thinkNXG ERP"
+msgstr "thinkNXG ERP da mahsulotlarni elementlar sifatida yarating"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:435
 msgid "Create quotation button on deal page and auto customer creation on deal status change will be disabled. Are you sure?"
@@ -2457,8 +2457,8 @@ msgid "Disable"
 msgstr "O'chirish"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:434
-msgid "Disable ERPNext Integration"
-msgstr "ERPNext integratsiyasini o'chirib qo'yish"
+msgid "Disable thinkNXG ERP Integration"
+msgstr "thinkNXG ERP integratsiyasini o'chirib qo'yish"
 
 #: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:310
 msgid "Disable Sales Hierarchy"
@@ -2640,8 +2640,8 @@ msgstr "Davomiyligi"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:634
 #: frontend/src/components/Settings/Settings.vue:231
-msgid "ERPNext"
-msgstr "ERPNext"
+msgid "thinkNXG ERP"
+msgstr "thinkNXG ERP"
 
 #. Name of a DocType
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
@@ -2650,45 +2650,45 @@ msgstr "ERPNext CRM sozlamalari"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:3
 #: frontend/src/components/Settings/ERPNextSettings.vue:9
-msgid "ERPNext Settings"
-msgstr "ERPNext sozlamalari"
+msgid "thinkNXG ERP Settings"
+msgstr "thinkNXG ERP sozlamalari"
 
 #. Label of the section_break_oubd (Section Break) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site API's"
-msgstr "ERPNext sayt API'lari"
+msgid "thinkNXG ERP Site API's"
+msgstr "thinkNXG ERP sayt API'lari"
 
 #. Label of the erpnext_site_url (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site URL"
-msgstr "ERPNext saytining URL manzili"
+msgid "thinkNXG ERP Site URL"
+msgstr "thinkNXG ERP saytining URL manzili"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:161
-msgid "ERPNext custom fields not created"
+msgid "thinkNXG ERP custom fields not created"
 msgstr ""
 
 #: crm/fcrm/doctype/crm_product/crm_product.py:42
-msgid "ERPNext integration is active. Create an Item in ERPNext and it will appear in CRM Product automatically."
-msgstr "ERPNext integratsiyasi faol. ERPNext da element yarating, shunda u avtomatik ravishda CRM mahsulotida paydo bo'ladi."
+msgid "thinkNXG ERP integration is active. Create an Item in thinkNXG ERP and it will appear in CRM Product automatically."
+msgstr "thinkNXG ERP integratsiyasi faol. thinkNXG ERP da element yarating, shunda u avtomatik ravishda CRM mahsulotida paydo bo'ladi."
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:220
-msgid "ERPNext integration must be enabled on the same site"
-msgstr "ERPNext integratsiyasi bir xil saytda yoqilgan bo'lishi kerak"
+msgid "thinkNXG ERP integration must be enabled on the same site"
+msgstr "thinkNXG ERP integratsiyasi bir xil saytda yoqilgan bo'lishi kerak"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:70
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:87
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:523
-msgid "ERPNext is not installed in the current site"
-msgstr "ERPNext joriy saytga o'rnatilmagan"
+msgid "thinkNXG ERP is not installed in the current site"
+msgstr "thinkNXG ERP joriy saytga o'rnatilmagan"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:71
-msgid "ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect"
-msgstr "ERPNext bu saytda o'rnatilmagan, uni o'rnating yoki ulanish uchun ERPNext saytingizning URL manzilini kiriting"
+msgid "thinkNXG ERP is not installed on this site either install it or enter the URL of your thinkNXG ERP site to connect"
+msgstr "thinkNXG ERP bu saytda o'rnatilmagan, uni o'rnating yoki ulanish uchun thinkNXG ERP saytingizning URL manzilini kiriting"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:27
-msgid "ERPNext is not integrated with the CRM"
-msgstr "ERPNext CRM bilan integratsiyalanmagan"
+msgid "thinkNXG ERP is not integrated with the CRM"
+msgstr "thinkNXG ERP CRM bilan integratsiyalanmagan"
 
 #: frontend/src/components/Activities/CommentArea.vue:94
 #: frontend/src/components/FieldLayout/Field.vue:110
@@ -3584,8 +3584,8 @@ msgstr "Forma skripti muvaffaqiyatli yangilandi"
 
 #. Name of a Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
-msgid "Frappe CRM"
-msgstr "Frappe CRM"
+msgid "thinkNXG CRM"
+msgstr "thinkNXG CRM"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:638
 msgid "Frappe CRM mobile"
@@ -4155,8 +4155,8 @@ msgstr "Standart"
 #. Label of the is_erpnext_in_different_site (Check) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "Is ERPNext installed on a different site?"
-msgstr "ERPNext boshqa saytga o'rnatilganmi?"
+msgid "Is thinkNXG ERP installed on a different site?"
+msgstr "thinkNXG ERP boshqa saytga o'rnatilganmi?"
 
 #. Label of the is_group (Check) field in DocType 'CRM Sales Hierarchy'
 #. Label of the is_group (Check) field in DocType 'CRM Territory'
@@ -4598,8 +4598,8 @@ msgid "Log a Call"
 msgstr "Qo'ng'iroqni yozib olish"
 
 #: frontend/src/composables/frappecloud.js:23
-msgid "Login to Frappe Cloud?"
-msgstr "Frappe Cloud’ga kirish?"
+msgid "Login to thinkNXG Cloud?"
+msgstr "thinkNXG Cloud’ga kirish?"
 
 #: frontend/src/pages/NotPermitted.vue:21
 msgid "Login with Different Account"
@@ -6301,8 +6301,8 @@ msgid "Reset Changes"
 msgstr "O'zgarishlarni tiklash"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:7
-msgid "Reset ERPNext Form Script"
-msgstr "ERPNext formasi skriptini tiklash"
+msgid "Reset thinkNXG ERP Form Script"
+msgstr "thinkNXG ERP formasi skriptini tiklash"
 
 #: frontend/src/components/ColumnSettings.vue:86
 #: frontend/src/pages/Dashboard.vue:28
@@ -6799,8 +6799,8 @@ msgid "Select the assignees for {0}."
 msgstr "{0} uchun topshiriq beruvchilarni tanlang."
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:245
-msgid "Select the deal status to trigger the auto customer creation in ERPNext"
-msgstr "ERPNext’da avtomatik mijozlarni yaratishni ishga tushirish uchun bitim holatini tanlang"
+msgid "Select the deal status to trigger the auto customer creation in thinkNXG ERP"
+msgstr "thinkNXG ERP’da avtomatik mijozlarni yaratishni ishga tushirish uchun bitim holatini tanlang"
 
 #: frontend/src/components/Settings/CalendarSettings.vue:38
 msgid "Select the default view for your calendar. This will be the initial view when you open the calendar"
@@ -6811,8 +6811,8 @@ msgid "Select whether to display time with or without seconds"
 msgstr "Vaqtni soniya bilan yoki soniyasiz ko'rsatishni tanlang"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:133
-msgid "Select your ERPNext company to connect with"
-msgstr "Bog'lanish uchun ERPNext kompaniyangizni tanlang"
+msgid "Select your thinkNXG ERP company to connect with"
+msgstr "Bog'lanish uchun thinkNXG ERP kompaniyangizni tanlang"
 
 #: frontend/src/components/FieldLayout/Field.vue:574
 msgid "Select {0}"
@@ -7995,8 +7995,8 @@ msgid "Uploading {0}%"
 msgstr "{0} % yuklanmoqda"
 
 #: crm/fcrm/doctype/crm_product/crm_product.py:45
-msgid "Use ERPNext to Create Products"
-msgstr "Mahsulotlar yaratish uchun ERPNext dan foydalaning"
+msgid "Use thinkNXG ERP to Create Products"
+msgstr "Mahsulotlar yaratish uchun thinkNXG ERP dan foydalaning"
 
 #. Label of the user (Link) field in DocType 'CRM Dashboard'
 #. Label of the user (Link) field in DocType 'CRM Sales Hierarchy'

@@ -189,7 +189,7 @@
       )
     "
     :filtered="!!Object.keys(tasks.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/task"
+    docsLink="https://docs.thinknxg.com/thinknxgcrm/task"
     @create="createTask()"
   />
   <DeleteLinkedDocModal

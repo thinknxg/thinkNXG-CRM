@@ -59,7 +59,7 @@
       )
     "
     :filtered="!!Object.keys(callLogs.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/call-log"
+    docsLink="https://docs.thinknxg.com/thinknxgcrm/call-log"
     @create="createCallLog()"
   />
   <CallLogDetailModal

@@ -1,15 +1,15 @@
 <template>
   <SettingsLayoutBase
-    :title="__('ERPNext Settings')"
-    :description="__('Manage ERPNext integration settings.')"
+    :title="__('thinkNXG ERP Settings')"
+    :description="__('Manage thinkNXG ERP integration settings.')"
   >
     <template #title>
       <div class="flex gap-2 items-center">
         <h2 class="flex text-2xl-semibold leading-none h-5">
-          {{ __('ERPNext Settings') }}
+          {{ __('thinkNXG ERP Settings') }}
         </h2>
         <Tooltip text="View documentation">
-          <a href="https://docs.thinknxg.net/crm/erpnext" target="_blank">
+          <a href="https://docs.thinknxg.com/thinknxgcrm/thinknxgerp" target="_blank">
             <lucide-circle-question-mark class="h-4 w-4 text-ink-gray-6" />
           </a>
         </Tooltip>
@@ -69,7 +69,7 @@
               required
               :description="
                 __(
-                  'ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect',
+                  'thinkNXG ERP is not installed on this site either install it or enter the URL of your thinkNXG ERP site to connect',
                 )
               "
               autocomplete="off"
@@ -152,7 +152,7 @@
                     {{ __('Company Name') }}
                   </div>
                   <div class="text-p-sm text-ink-gray-5 truncate">
-                    {{ __('Select your ERPNext company to connect with') }}
+                    {{ __('Select your thinkNXG ERP company to connect with') }}
                   </div>
                 </div>
                 <div class="w-48">
@@ -218,7 +218,7 @@
                   <div class="text-p-sm text-ink-gray-5">
                     {{
                       __(
-                        'ERPNext Items always sync into CRM Products. Turn this on to also sync CRM Product changes back to ERPNext Items.',
+                        'thinkNXG ERP Items always sync into CRM Products. Turn this on to also sync CRM Product changes back to thinkNXG ERP Items.',
                       )
                     }}
                   </div>
@@ -246,10 +246,10 @@
                     {{
                       erpnextCRMSettingsResource.doc.sync_products
                         ? __(
-                            'Run a manual bi-directional sync between ERPNext Items and CRM Products.',
+                            'Run a manual bi-directional sync between thinkNXG ERP Items and CRM Products.',
                           )
                         : __(
-                            'Run a manual synchronization to pull the latest Items from ERPNext.',
+                            'Run a manual synchronization to pull the latest Items from thinkNXG ERP.',
                           )
                     }}
                   </div>
@@ -272,7 +272,7 @@
                   <div class="text-p-sm text-ink-gray-5 truncate">
                     {{
                       __(
-                        'Create customer in ERPNext when the deal status is changed',
+                        'Create customer in thinkNXG ERP when the deal status is changed',
                       )
                     }}
                   </div>
@@ -302,7 +302,7 @@
                     <div class="text-p-sm text-ink-gray-5">
                       {{
                         __(
-                          'Select the deal status to trigger the auto customer creation in ERPNext',
+                          'Select the deal status to trigger the auto customer creation in thinkNXG ERP',
                         )
                       }}
                     </div>
@@ -432,13 +432,13 @@
           >
             <ERPNextIcon class="size-7.5 text-ink-gray-5" />
             <div class="flex flex-col items-center gap-1.5 text-center">
-              <span class="text-lg font-medium text-ink-gray-8">
-                {{ __('Connect ERPNext to thinkNXG CRM') }}
+              <span class="text-lg-medium text-ink-gray-8">
+                {{ __('Connect thinkNXG ERP to thinkNXG CRM') }}
               </span>
               <span class="text-center text-p-base text-ink-gray-6">
                 {{
                   __(
-                    'Enable the integration to create quotations and more in ERPNext.',
+                    'Enable the integration to create quotations and more in thinkNXG ERP.',
                   )
                 }}
               </span>
@@ -657,7 +657,7 @@ const saveSettings = async () => {
 const toggleEnable = (value) => {
   if (value) {
     $dialog({
-      title: __('Disable ERPNext Integration'),
+      title: __('Disable thinkNXG ERP Integration'),
       message: __(
         'Create quotation button on deal page and auto customer creation on deal status change will be disabled. Are you sure?',
       ),

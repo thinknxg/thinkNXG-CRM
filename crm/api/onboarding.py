@@ -11,7 +11,7 @@ def complete_setup_for_fc_site(login_manager=None):
 	try:
 		setup_complete(get_prefilled_setup_args())
 	except Exception:
-		frappe.log_error("Frappe Cloud setup auto-complete failed")
+		frappe.log_error("thinkNXG Cloud setup auto-complete failed")
 
 
 def should_auto_complete_setup():

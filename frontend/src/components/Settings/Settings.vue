@@ -249,7 +249,7 @@ const tabs = computed(() => {
           condition: () => isWhatsappInstalled.value && isManager(),
         },
         {
-          label: __('ERPNext'),
+          label: __('thinkNXG ERP'),
           icon: ERPNextIcon,
           component: markRaw(ERPNextSettings),
           condition: () => isManager(),

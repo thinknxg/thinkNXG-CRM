@@ -704,8 +704,8 @@ msgid "Are you sure you want to go back? Unsaved changes will be lost."
 msgstr "是否确认返回？未保存的修改将会丢失。"
 
 #: frontend/src/composables/frappecloud.js:24
-msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
-msgstr "确定登录Frappe云控制面板？"
+msgid "Are you sure you want to login to your thinkNXG Cloud dashboard?"
+msgstr "确定登录thinkNXG云控制面板？"
 
 #: frontend/src/components/FieldLayoutEditor.vue:431
 msgid "Are you sure you want to remove this tab and all its content?"
@@ -1627,7 +1627,7 @@ msgstr "公司名"
 
 #. Label of the erpnext_company (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "Company in ERPNext site"
+msgid "Company in thinkNXG ERP site"
 msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:517
@@ -1940,7 +1940,7 @@ msgid "Create an Event"
 msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:217
-msgid "Create customer in ERPNext when the deal status is changed"
+msgid "Create customer in thinkNXG ERP when the deal status is changed"
 msgstr ""
 
 #. Label of the create_customer_on_status_change (Check) field in DocType
@@ -1952,7 +1952,7 @@ msgstr "状态变更时创建客户"
 #: crm/fcrm/doctype/crm_product/crm_product.js:12
 #: crm/fcrm/doctype/crm_product/crm_product_list.js:10
 #: frontend/src/composables/document.js:29
-msgid "Create products as Items in ERPNext"
+msgid "Create products as Items in thinkNXG ERP"
 msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:435
@@ -2457,7 +2457,7 @@ msgid "Disable"
 msgstr "禁用"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:434
-msgid "Disable ERPNext Integration"
+msgid "Disable thinkNXG ERP Integration"
 msgstr ""
 
 #: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:310
@@ -2640,8 +2640,8 @@ msgstr "持续时间"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:634
 #: frontend/src/components/Settings/Settings.vue:231
-msgid "ERPNext"
-msgstr "ERPNext"
+msgid "thinkNXG ERP"
+msgstr "thinkNXG ERP"
 
 #. Name of a DocType
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
@@ -2650,45 +2650,45 @@ msgstr "ERPNext CRM设置"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:3
 #: frontend/src/components/Settings/ERPNextSettings.vue:9
-msgid "ERPNext Settings"
-msgstr "ERPNext设置"
+msgid "thinkNXG ERP Settings"
+msgstr "thinkNXG ERP设置"
 
 #. Label of the section_break_oubd (Section Break) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site API's"
-msgstr "ERPNext站点API"
+msgid "thinkNXG ERP Site API's"
+msgstr "thinkNXG ERP站点API"
 
 #. Label of the erpnext_site_url (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site URL"
-msgstr "ERPNext站点URL"
+msgid "thinkNXG ERP Site URL"
+msgstr "thinkNXG ERP站点URL"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:161
-msgid "ERPNext custom fields not created"
+msgid "thinkNXG ERP custom fields not created"
 msgstr ""
 
 #: crm/fcrm/doctype/crm_product/crm_product.py:42
-msgid "ERPNext integration is active. Create an Item in ERPNext and it will appear in CRM Product automatically."
+msgid "thinkNXG ERP integration is active. Create an Item in thinkNXG ERP and it will appear in CRM Product automatically."
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:220
-msgid "ERPNext integration must be enabled on the same site"
+msgid "thinkNXG ERP integration must be enabled on the same site"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:70
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:87
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:523
-msgid "ERPNext is not installed in the current site"
-msgstr "当前站点未安装ERPNext"
+msgid "thinkNXG ERP is not installed in the current site"
+msgstr "当前站点未安装thinkNXG ERP"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:71
-msgid "ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect"
+msgid "thinkNXG ERP is not installed on this site either install it or enter the URL of your thinkNXG ERP site to connect"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:27
-msgid "ERPNext is not integrated with the CRM"
-msgstr "ERPNext未与CRM集成"
+msgid "thinkNXG ERP is not integrated with the CRM"
+msgstr "thinkNXG ERP未与CRM集成"
 
 #: frontend/src/components/Activities/CommentArea.vue:94
 #: frontend/src/components/FieldLayout/Field.vue:110
@@ -3584,8 +3584,8 @@ msgstr "表单脚本更新成功"
 
 #. Name of a Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
-msgid "Frappe CRM"
-msgstr "Frappe CRM"
+msgid "thinkNXG CRM"
+msgstr "thinkNXG CRM"
 
 #: frontend/src/components/Layouts/AppSidebar.vue:638
 msgid "Frappe CRM mobile"
@@ -4155,8 +4155,8 @@ msgstr "设为默认"
 #. Label of the is_erpnext_in_different_site (Check) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "Is ERPNext installed on a different site?"
-msgstr "ERPNext是否安装在其他站点？"
+msgid "Is thinkNXG ERP installed on a different site?"
+msgstr "thinkNXG ERP是否安装在其他站点？"
 
 #. Label of the is_group (Check) field in DocType 'CRM Sales Hierarchy'
 #. Label of the is_group (Check) field in DocType 'CRM Territory'
@@ -4598,8 +4598,8 @@ msgid "Log a Call"
 msgstr "记录通话"
 
 #: frontend/src/composables/frappecloud.js:23
-msgid "Login to Frappe Cloud?"
-msgstr "登录Frappe云平台？"
+msgid "Login to thinkNXG Cloud?"
+msgstr "登录thinkNXG云平台？"
 
 #: frontend/src/pages/NotPermitted.vue:21
 msgid "Login with Different Account"
@@ -6301,8 +6301,8 @@ msgid "Reset Changes"
 msgstr "撤销修改"
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:7
-msgid "Reset ERPNext Form Script"
-msgstr "重置ERPNext表单脚本"
+msgid "Reset thinkNXG ERP Form Script"
+msgstr "重置thinkNXG ERP表单脚本"
 
 #: frontend/src/components/ColumnSettings.vue:86
 #: frontend/src/pages/Dashboard.vue:28
@@ -6799,7 +6799,7 @@ msgid "Select the assignees for {0}."
 msgstr "请选择{0}的负责人。"
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:245
-msgid "Select the deal status to trigger the auto customer creation in ERPNext"
+msgid "Select the deal status to trigger the auto customer creation in thinkNXG ERP"
 msgstr ""
 
 #: frontend/src/components/Settings/CalendarSettings.vue:38
@@ -6811,7 +6811,7 @@ msgid "Select whether to display time with or without seconds"
 msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:133
-msgid "Select your ERPNext company to connect with"
+msgid "Select your thinkNXG ERP company to connect with"
 msgstr ""
 
 #: frontend/src/components/FieldLayout/Field.vue:574
@@ -7995,7 +7995,7 @@ msgid "Uploading {0}%"
 msgstr "上传进度{0}%"
 
 #: crm/fcrm/doctype/crm_product/crm_product.py:45
-msgid "Use ERPNext to Create Products"
+msgid "Use thinkNXG ERP to Create Products"
 msgstr ""
 
 #. Label of the user (Link) field in DocType 'CRM Dashboard'

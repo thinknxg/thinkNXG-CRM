@@ -86,7 +86,7 @@ const SETTINGS_SECTIONS = [
     pages: [
       ['SLA Policies', 'timer'],
       ['Accounts', 'at-sign'],
-      ['ERPNext', 'blocks'],
+      ['thinkNXG ERP', 'blocks'],
       ['Lead Syncing', 'refresh-cw'],
     ],
   },

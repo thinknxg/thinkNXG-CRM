@@ -578,7 +578,7 @@ msgid "Are you sure you want to go back? Unsaved changes will be lost."
 msgstr ""
 
 #: frontend/src/composables/frappecloud.js:24
-msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
+msgid "Are you sure you want to login to your thinkNXG Cloud dashboard?"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:9
@@ -2133,7 +2133,7 @@ msgstr ""
 
 #: frontend/src/components/Layouts/AppSidebar.vue:604
 #: frontend/src/components/Settings/Settings.vue:197
-msgid "ERPNext"
+msgid "thinkNXG ERP"
 msgstr ""
 
 #. Name of a DocType
@@ -2144,21 +2144,21 @@ msgstr ""
 #. Label of the section_break_oubd (Section Break) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site API's"
+msgid "thinkNXG ERP Site API's"
 msgstr ""
 
 #. Label of the erpnext_site_url (Data) field in DocType 'ERPNext CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "ERPNext Site URL"
+msgid "thinkNXG ERP Site URL"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:25
-msgid "ERPNext is not installed in the current site"
+msgid "thinkNXG ERP is not installed in the current site"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:98
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:124
-msgid "ERPNext is not integrated with the CRM"
+msgid "thinkNXG ERP is not integrated with the CRM"
 msgstr ""
 
 #: frontend/src/components/Settings/ERPNextSettings.vue:4
@@ -2876,7 +2876,7 @@ msgstr ""
 
 #. Name of a Workspace
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json
-msgid "Frappe CRM"
+msgid "thinkNXG CRM"
 msgstr ""
 
 #: frontend/src/components/Layouts/AppSidebar.vue:608
@@ -3345,7 +3345,7 @@ msgstr ""
 #. Label of the is_erpnext_in_different_site (Check) field in DocType 'ERPNext
 #. CRM Settings'
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json
-msgid "Is ERPNext installed on a different site?"
+msgid "Is thinkNXG ERP installed on a different site?"
 msgstr ""
 
 #. Label of the is_group (Check) field in DocType 'CRM Territory'
@@ -3696,7 +3696,7 @@ msgid "Log a Call"
 msgstr ""
 
 #: frontend/src/composables/frappecloud.js:23
-msgid "Login to Frappe Cloud?"
+msgid "Login to thinkNXG Cloud?"
 msgstr ""
 
 #: frontend/src/pages/NotPermitted.vue:21
@@ -4997,7 +4997,7 @@ msgid "Reset Changes"
 msgstr ""
 
 #: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:7
-msgid "Reset ERPNext Form Script"
+msgid "Reset thinkNXG ERP Form Script"
 msgstr ""
 
 #: frontend/src/components/ColumnSettings.vue:86

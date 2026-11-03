@@ -61,7 +61,7 @@ let links = [
   },
   {
     label: __('Documentation'),
-    url: 'https://docs.thinknxg.net/crm',
+    url: 'https://docs.thinknxg.com/thinknxgcrm',
     icon: LucideBookOpen,
   },
   {

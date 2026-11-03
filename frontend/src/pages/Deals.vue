@@ -222,7 +222,7 @@
       )
     "
     :filtered="!!Object.keys(deals.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/deal"
+    docsLink="https://docs.thinknxg.com/thinknxgcrm/deal"
     importDoctype="CRM Deal"
     @create="showDealModal = true"
   />

@@ -2,7 +2,7 @@ import { globalStore } from '@/stores/global'
 import { createResource } from 'frappe-ui'
 import { ref } from 'vue'
 
-const baseEndpoint = ref('https://frappecloud.com')
+const baseEndpoint = ref('https://thinknxgcloud.com')
 const siteName = ref('')
 
 export const currentSiteInfo = createResource({
@@ -20,9 +20,9 @@ export const confirmLoginToFrappeCloud = () => {
   const { $dialog } = globalStore()
 
   $dialog({
-    title: __('Login to Frappe Cloud?'),
+    title: __('Login to thinkNXG Cloud?'),
     message: __(
-      'Are you sure you want to login to your Frappe Cloud dashboard?',
+      'Are you sure you want to login to your thinkNXG Cloud dashboard?',
     ),
     actions: [
       {

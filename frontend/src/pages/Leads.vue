@@ -248,7 +248,7 @@
       )
     "
     :filtered="!!Object.keys(leads.params?.filters || {}).length"
-    docsLink="https://docs.frappe.io/crm/lead"
+    docsLink="https://docs.thinknxg.com/thinknxgcrm/lead"
     importDoctype="CRM Lead"
     @create="showLeadModal = true"
   />

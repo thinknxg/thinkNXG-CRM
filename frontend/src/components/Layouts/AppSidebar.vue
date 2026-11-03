@@ -179,7 +179,7 @@
       :afterSkipAll="() => capture('onboarding_steps_skipped')"
       :afterReset="(step) => capture('onboarding_step_reset_' + step)"
       :afterResetAll="() => capture('onboarding_steps_reset')"
-      docsLink="https://docs.thinknxg.io/crm"
+      docsLink="https://docs.thinknxg.com/thinknxgcrm"
     />
     <IntermediateStepModal
       v-model="showIntermediateModal"
@@ -682,7 +682,7 @@ const articles = ref([
       { name: 'twilio', title: __('Twilio') },
       { name: 'exotel', title: __('Exotel') },
       { name: 'whatsapp', title: __('WhatsApp') },
-      { name: 'erpnext', title: __('ERPNext') },
+      { name: 'erpnext', title: __('thinkNXG ERP') },
     ],
   },
   {

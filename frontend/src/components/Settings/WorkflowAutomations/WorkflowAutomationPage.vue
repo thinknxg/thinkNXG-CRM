@@ -11,7 +11,7 @@
         </h2>
         <Tooltip :text="__('View documentation')">
           <a
-            href="https://docs.frappe.io/crm/automations/introduction"
+            href="https://docs.thinknxg.com/thinknxgcrm/automations/introduction"
             target="_blank"
           >
             <LucideCircleQuestionMark class="h-4 w-4 text-ink-gray-6" />

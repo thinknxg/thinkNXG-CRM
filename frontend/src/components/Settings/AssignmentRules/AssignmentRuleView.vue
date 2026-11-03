@@ -152,7 +152,7 @@
               }}
               <a
                 class="font-medium underline"
-                href="https://docs.thinknxg/crm/assignment-rule"
+                href="https://docs.thinknxg.com/thinknxgcrm/assignment-rule"
                 target="_blank"
                 >{{ __('Learn about conditions') }}</a
               >
@@ -232,7 +232,7 @@
               }}
               <a
                 class="font-medium underline"
-                href="https://docs.thinknxg/crm/assignment-rule"
+                href="https://docs.thinknxg.com/thinknxgcrm/assignment-rule"
                 target="_blank"
                 >{{ __('Learn about conditions') }}</a
               >

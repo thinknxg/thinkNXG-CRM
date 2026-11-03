@@ -2,12 +2,12 @@
 	"private": true,
 	"type": "module",
 	"name": "crm",
-	"description": "Frappe CRM helps you work, not slow you down. Open-source, intuitive, and free from extra costs.",
+	"description": "thinkNXG CRM helps you work, not slow you down. Open-source, intuitive, and free from extra costs.",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/frappe/crm.git"
+		"url": "git+https://github.com/thinknxg/thinkNXG-CRM.git"
 	},
-	"homepage": "https://frappe.io/crm",
+	"homepage": "https://docs.thinknxg.com/thinknxgcrm",
 	"author": "Frappe Technologies Pvt. Ltd.",
 	"license": "GPL-3.0",
 	"bugs": {
